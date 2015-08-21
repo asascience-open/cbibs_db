@@ -1,4 +1,4 @@
 CBIBS DB revision control
 =========================
 
-Track changes to CBIBS DB
+Track schema/data changes to CBIBS DB
