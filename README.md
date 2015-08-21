@@ -1,4 +1,6 @@
 CBIBS DB revision control
 =========================
 
-Track schema/data changes to CBIBS DB
+Uses [sqitch](http://sqitch.org/) to track schema/data changes to CBIBS 
+database.
+
