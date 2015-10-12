@@ -6,3 +6,5 @@ fix_standard_names 2015-08-21T15:42:03Z Benjamin Adams <Ben.Adams@rpsgroup.com> 
 fix_units 2015-10-09T18:44:43Z Luke Campbell <lcampbell@RI-VSQ-C02N729> # Fixes the units for currents
 fix_cond 2015-10-09T21:17:59Z Luke Campbell <luke.campbell@rpsgroup.com> # Fixes conductivity units
 fix_pres 2015-10-09T21:45:25Z Luke Campbell <luke.campbell@rpsgroup.com> # Fixes air pressure units
+add_time_bounds 2015-09-16T19:06:13Z Benjamin Adams <Ben.Adams@rpsgroup.com> # Adds time bounding for variables requiring cell_bounds over time
+standard_name_verification 2015-09-28T19:31:54Z Benjamin Adams <Ben.Adams@rpsgroup.com> # Verification of standard names from table
